@@ -3,15 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to P(y)rotein Subcellular Location Image Database's documentation!
-==========================================================================
+P(y)rotein Subcellular Location Image Database
+==============================================
 
 Contents:
+
 
 .. toctree::
    :maxdepth: 2
 
-
+   pyslid
+   history
 
 Indices and tables
 ==================
@@ -20,3 +22,11 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+About
+=====
+
+Dependencies
+============
+
+Installation
+============
